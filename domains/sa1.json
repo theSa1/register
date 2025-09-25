@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "thesa1",
+    "email": "i@sa1.dev"
+  },
+  "records": {
+    "CNAME": "is-a-dev-docs.pages.dev"
+  },
+  "proxied": true
+}
